@@ -1,0 +1,9 @@
+{
+  "title": "FiveM Resource Documentation",
+  "url": "fivem.plunkett.dev",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "plunkettscott/fx-docs"
+}
